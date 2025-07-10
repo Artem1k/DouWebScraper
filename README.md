@@ -14,4 +14,5 @@ Such libraries were used:
 ### The database
 |Company name|Street|Phone number|Website on Dou|Official site|Gmail|Street on google maps|
 |-|-|-|-|-|-|-|
+
 ![xlsx](IT_companies_lviv.png)
